@@ -1,0 +1,8 @@
+1.List of Customization
+2.List of active members
+3.Environment details (FE/BE/VPN/rTrack queue)
+4.List of Pending Issues (RITSL/RSL)
+5.List of Pending CRs
+6.any commitments to Customers
+
+

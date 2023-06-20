@@ -17,6 +17,11 @@ modified by   modified on  remarks
 John    12 May 2004  NSODMS41SYTST_000130  
 Damodharan R   17 July 2006  NSODMS412AT_000328  
 ******************************************************************************************/   
+Author : Ravikumar Rajendran
+Date   : 20 June 2023
+Modification : For testing GIT & GIT Hub
+
+******************************************************************************************/   
 create procedure so_cnauen_sp_inistatus  
      --temporary store for input parameter assignment  
      @ctxt_language   udd_ctxt_language  ,  

@@ -22,6 +22,12 @@ Date   : 20 June 2023
 Modification : For testing GIT & GIT Hub
 
 ******************************************************************************************/   
+******************************************************************************************/   
+Author : Ravikumar Rajendran
+Date   : 20 June 2023 - 01:56 PM
+Modification : For testing GIT & GIT Hub
+Version       : 1.1
+******************************************************************************************/   
 create procedure so_cnauen_sp_inistatus  
      --temporary store for input parameter assignment  
      @ctxt_language   udd_ctxt_language  ,  

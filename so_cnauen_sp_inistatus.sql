@@ -71,8 +71,12 @@ begin
  and    upper(rtrim(paramtype))     = 'SO_CON_STATUS'   
  and    upper(rtrim(paramcode))    in ('FR','AM','AL')/*DMS 41-NSODMS41SYTST_000130*/  
  and langid     = @ctxt_language  
+<<<<<<< HEAD
         order by paramcode  
+=======
+>>>>>>> dba911293ebb10ace74d4ebe2c4b2462f3088b37
  /* Code added by Damodharan R for OTS ID NSODMS412AT_000328 begins here */  
 
  /* Code added by Damodharan R for OTS ID NSODMS412AT_000328 ends here */  
+          order by paramcode  
 end  
